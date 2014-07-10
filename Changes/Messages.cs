@@ -1,8 +1,6 @@
 // A class to display messages and certain status screens during gameplay.
 // I'll probabbly implement the alien communication via this class.
 // It's a bit of a mess right now. 
-// Copyright© 2003-2004 Gregg Brzozowski, brzozowskig@adelphia.net
-// PLEASE DO NOT MODIFY, DISTRIBUTE OR SELL FOR PROFIT, THIS SOURCE CODE AND ITS ASSOCIATED PROJECT.
 // See Readme.txt for more information.
 
 using System;
