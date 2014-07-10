@@ -6,8 +6,6 @@ using System.Drawing;
 //  Generates a what's needed to draw a system the first time it is entered in gameplay.
 //  after which, it is stored in the main class in a two dimensional array.
 //  also created a refrence array of pointers pointing to the appropriate planets in here.Planets().
-// PLEASE DO NOT MODIFY, DISTRIBUTE OR SELL FOR PROFIT, THIS SOURCE CODE AND ITS ASSOCIATED PROJECT.
-// See Readme.txt for more information.
 
 namespace OuterSpace
 {
