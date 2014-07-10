@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Races>
+	<Race>
+		<Name>Human</Name>
+		<LearningRate>9</LearningRate>
+		<Durability>7</Durability>
+		<InherentAptitude>22112</InherentAptitude>
+		<Description>Light beige to dark brown skin color.  A large bit of hair on the scalp.  Bipedal.</Description>
+		<History>A brief history goes here.</History>
+		<Status>1</Status>
+	</Race>
+	<Race>
+		<Name>Vulcan</Name>
+		<LearningRate>10</LearningRate>
+		<Durability>8</Durability>
+		<InherentAptitude>12331</InherentAptitude>
+		<Description>Pointy ears and logical.</Description>
+		<History>A brief history goes here.</History>
+		<Status>1</Status>		
+	</Race>
+	<Race>
+		<Name>Romulan</Name>
+		<LearningRate>10</LearningRate>
+		<Durability>8</Durability>
+		<InherentAptitude>12224</InherentAptitude>
+		<Description>Pointy ears and illogical.</Description>
+		<History>A brief history goes here.</History>
+		<Status>1</Status>		
+	</Race>
+	<Race>
+		<Name>Klingon</Name>
+		<LearningRate>8</LearningRate>
+		<Durability>9</Durability>
+		<InherentAptitude>31344</InherentAptitude>
+		<Description>Big, ugly, mean guys.</Description>
+		<History>A brief history goes here.</History>
+		<Status>1</Status>		
+	</Race>
+	<Race>
+		<Name>Xikelas</Name>
+		<LearningRate>10</LearningRate>
+		<Durability>7</Durability>
+		<InherentAptitude>12131</InherentAptitude>
+		<Description>Unknown</Description>
+		<History>A near galactic spaning empire that died out over 750,000 years ago.</History>
+		<Status>0</Status>		
+	</Race>	
+</Races>

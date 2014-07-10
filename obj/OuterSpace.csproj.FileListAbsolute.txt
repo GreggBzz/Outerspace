@@ -1,0 +1,27 @@
+C:\My Documents\VBProg\Outerspace\Outerspace C\Outerspace_Current\OuterSpace\OuterSpace\bin\Debug\OuterSpace.exe.config
+C:\My Documents\VBProg\Outerspace\Outerspace C\Outerspace_Current\OuterSpace\OuterSpace\bin\Debug\OuterSpace.exe
+C:\My Documents\VBProg\Outerspace\Outerspace C\Outerspace_Current\OuterSpace\OuterSpace\bin\Debug\OuterSpace.pdb
+C:\My Documents\VBProg\Outerspace\Outerspace C\Outerspace_Current\OuterSpace\OuterSpace\obj\Debug\ResolveAssemblyReference.cache
+C:\My Documents\VBProg\Outerspace\Outerspace C\Outerspace_Current\OuterSpace\OuterSpace\obj\Debug\OuterSpace.OuterSpace.resources
+C:\My Documents\VBProg\Outerspace\Outerspace C\Outerspace_Current\OuterSpace\OuterSpace\obj\Debug\OuterSpace.Properties.Resources.resources
+C:\My Documents\VBProg\Outerspace\Outerspace C\Outerspace_Current\OuterSpace\OuterSpace\obj\Debug\OuterSpace.csproj.GenerateResource.Cache
+C:\My Documents\VBProg\Outerspace\Outerspace C\Outerspace_Current\OuterSpace\OuterSpace\obj\Debug\OuterSpace.exe
+C:\My Documents\VBProg\Outerspace\Outerspace C\Outerspace_Current\OuterSpace\OuterSpace\obj\Debug\OuterSpace.pdb
+C:\My Documents\VBProg\Outerspace\Outerspace C\Outerspace_Current\OuterSpace\OuterSpace\bin\Release\OuterSpace.exe.config
+C:\My Documents\VBProg\Outerspace\Outerspace C\Outerspace_Current\OuterSpace\OuterSpace\bin\Release\OuterSpace.exe
+C:\My Documents\VBProg\Outerspace\Outerspace C\Outerspace_Current\OuterSpace\OuterSpace\bin\Release\OuterSpace.pdb
+C:\My Documents\VBProg\Outerspace\Outerspace C\Outerspace_Current\OuterSpace\OuterSpace\obj\Release\ResolveAssemblyReference.cache
+C:\My Documents\VBProg\Outerspace\Outerspace C\Outerspace_Current\OuterSpace\OuterSpace\obj\Release\OuterSpace.OuterSpace.resources
+C:\My Documents\VBProg\Outerspace\Outerspace C\Outerspace_Current\OuterSpace\OuterSpace\obj\Release\OuterSpace.Properties.Resources.resources
+C:\My Documents\VBProg\Outerspace\Outerspace C\Outerspace_Current\OuterSpace\OuterSpace\obj\Release\OuterSpace.csproj.GenerateResource.Cache
+C:\My Documents\VBProg\Outerspace\Outerspace C\Outerspace_Current\OuterSpace\OuterSpace\obj\Release\OuterSpace.exe
+C:\My Documents\VBProg\Outerspace\Outerspace C\Outerspace_Current\OuterSpace\OuterSpace\obj\Release\OuterSpace.pdb
+C:\Documents and Settings\Gregg\My Documents\Outerspace\VBProg\Outerspace\Outerspace C\Outerspace_Current\OuterSpace\OuterSpace\bin\Debug\OuterSpace.exe.config
+C:\Documents and Settings\Gregg\My Documents\Outerspace\VBProg\Outerspace\Outerspace C\Outerspace_Current\OuterSpace\OuterSpace\obj\Debug\OuterSpace.exe
+C:\Documents and Settings\Gregg\My Documents\Outerspace\VBProg\Outerspace\Outerspace C\Outerspace_Current\OuterSpace\OuterSpace\obj\Debug\OuterSpace.pdb
+C:\Documents and Settings\Gregg\My Documents\Outerspace\VBProg\Outerspace\Outerspace C\Outerspace_Current\OuterSpace\OuterSpace\bin\Debug\OuterSpace.exe
+C:\Documents and Settings\Gregg\My Documents\Outerspace\VBProg\Outerspace\Outerspace C\Outerspace_Current\OuterSpace\OuterSpace\bin\Debug\OuterSpace.pdb
+C:\Documents and Settings\Gregg\My Documents\Outerspace\VBProg\Outerspace\Outerspace C\Outerspace_Current\OuterSpace\OuterSpace\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Gregg\My Documents\Outerspace\VBProg\Outerspace\Outerspace C\Outerspace_Current\OuterSpace\OuterSpace\obj\Debug\OuterSpace.OuterSpace.resources
+C:\Documents and Settings\Gregg\My Documents\Outerspace\VBProg\Outerspace\Outerspace C\Outerspace_Current\OuterSpace\OuterSpace\obj\Debug\OuterSpace.Properties.Resources.resources
+C:\Documents and Settings\Gregg\My Documents\Outerspace\VBProg\Outerspace\Outerspace C\Outerspace_Current\OuterSpace\OuterSpace\obj\Debug\OuterSpace.csproj.GenerateResource.Cache

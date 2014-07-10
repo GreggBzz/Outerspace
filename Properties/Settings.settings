@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="OuterSpace.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="XmlPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Resources\Xml\</Value>
+    </Setting>
+    <Setting Name="AppPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">bin\Debug\</Value>
+    </Setting>
+    <Setting Name="RootPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Users\Autumn\Documents\Outerspace\Outerspace\VBProg\Outerspace\Outerspace C\Outerspace_Current\OuterSpace\OuterSpace\</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

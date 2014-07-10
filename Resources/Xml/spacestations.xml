@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SpaceStations>
+  <Station>
+    <ID>1</ID>
+    <Name>Starport Alpha</Name>
+    <Type>A</Type>
+    <SystemID>168</SystemID>
+    <OrbitNum>5</OrbitNum>
+  </Station>
+</SpaceStations>

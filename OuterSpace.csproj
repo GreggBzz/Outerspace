@@ -1,0 +1,161 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{64F11CE7-3E1D-4A17-BB6C-37DCD6F81D5F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>OuterSpace</RootNamespace>
+    <AssemblyName>OuterSpace</AssemblyName>
+    <StartupObject>
+    </StartupObject>
+    <ApplicationIcon>Resources\Application.ico</ApplicationIcon>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.DirectX, Version=1.0.2902.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\WINDOWS\Microsoft.NET\Managed DirectX\v9.02.2904\Microsoft.DirectX.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.DirectX.Direct3D, Version=1.0.2902.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\WINDOWS\Microsoft.NET\Managed DirectX\v9.02.2904\Microsoft.DirectX.Direct3D.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.DirectX.Direct3DX, Version=1.0.2902.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\WINDOWS\Microsoft.NET\Managed DirectX\v9.02.2904\Microsoft.DirectX.Direct3DX.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.DirectX.DirectInput, Version=1.0.2902.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\WINDOWS\Microsoft.NET\Managed DirectX\v9.02.2904\Microsoft.DirectX.DirectInput.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.DirectX.DirectSound, Version=1.0.2902.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\WINDOWS\Microsoft.NET\Managed DirectX\v9.02.2904\Microsoft.DirectX.DirectSound.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Managers\CrewManager.cs" />
+    <Compile Include="Managers\Player.cs" />
+    <Compile Include="Managers\RaceManager.cs" />
+    <Compile Include="Managers\WindowManager.cs" />
+    <Compile Include="OuterSpace.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OuterSpace.Designer.cs">
+      <DependentUpon>OuterSpace.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Planet\FractalPlanet.cs" />
+    <Compile Include="Planet\Geosphere.cs" />
+    <Compile Include="Planet\LifeForms.cs" />
+    <Compile Include="Planet\Mineral.cs" />
+    <Compile Include="Planet\Minerals.cs" />
+    <Compile Include="Planet\Planet.cs" />
+    <Compile Include="Planet\PlanetMap.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="OuterSpace.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>OuterSpace.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+      <SubType>
+      </SubType>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Races and Crew\CrewMember.cs" />
+    <Compile Include="Races and Crew\Race.cs" />
+    <Compile Include="Space\Star.cs" />
+    <Compile Include="Space\Universe.cs" />
+    <Compile Include="Stations\Starport.cs" />
+    <Compile Include="System\SolarSystem.cs" />
+    <Compile Include="Utility\D3DFont.cs" />
+    <Compile Include="Utility\D3DScene.cs" />
+    <Compile Include="Utility\DebugOutput.cs" />
+    <Compile Include="Utility\GameClock.cs" />
+    <Compile Include="Utility\MathFunctions.cs" />
+    <Compile Include="Utility\MeshObject.cs" />
+    <Compile Include="Utility\Sound.cs" />
+    <Compile Include="Utility\Sprite.cs" />
+    <Compile Include="Vehicles\VehicleStats.cs" />
+    <Compile Include="Windows and UI\AnalysisWindow.cs" />
+    <Compile Include="Windows and UI\BaseWindow.cs" />
+    <Compile Include="Windows and UI\Button.cs" />
+    <Compile Include="Windows and UI\Checkbox.cs" />
+    <Compile Include="Windows and UI\Combobox.cs" />
+    <Compile Include="Windows and UI\DialogWindow.cs" />
+    <Compile Include="Windows and UI\Listbox.cs" />
+    <Compile Include="Windows and UI\MenuWindow.cs" />
+    <Compile Include="Windows and UI\MessageBoxWindow.cs" />
+    <Compile Include="Windows and UI\Messages.cs" />
+    <Compile Include="Windows and UI\MsgWindow.cs" />
+    <Compile Include="Windows and UI\PDAWindow.cs" />
+    <Compile Include="Windows and UI\ScanWindow.cs" />
+    <Compile Include="Windows and UI\StarmapWindow.cs" />
+    <Compile Include="Windows and UI\Statictext.cs" />
+    <Compile Include="Windows and UI\StatusWindow.cs" />
+    <Compile Include="Windows and UI\Textbox.cs" />
+    <Compile Include="Windows and UI\TitleScreen.cs" />
+    <Compile Include="Windows and UI\UserInterface.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Resources\Application.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
