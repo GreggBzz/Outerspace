@@ -1,4 +1,4 @@
-// The entry point of this class, is really the tesselate . Start there, and you should see what it does..
+// The entry point of this class, is really the tesselate method. Start there, and you should see what it does..
 // The original verticies and triangles are specified rather like a large Dungeons&Dragons 20 sided die I bought for a visual refrence.
 // That's before tesselation.
 
