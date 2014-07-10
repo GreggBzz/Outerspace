@@ -1,14 +1,11 @@
 #region MISSION STATEMENT
 // Purpose:  To become a full fledged game.
-// Animation routine for my starship and it's galatic voyages.
+// Animation routine for the starship and it's galatic voyages.
 // Requires a universe file from UniverseGenerator.
 // Written By: 
 //    Gregg Brzozowski (gregg.brzozowski@gmail.com), 
 //    Jason Henderson (jasonwhenderson@gmail.com)
 // Born On:  8/2/2003
-// Copyright© Gregg Brzozowski (gregg.brzozowski@gmail.com)
-// PLEASE DO NOT MODIFY, DISTRIBUTE OR SELL FOR PROFIT, THIS SOURCE CODE AND ITS ASSOCIATED PROJECT.
-// See Readme.txt for more information.
 #endregion
 
 #region COMMENT DEFINITIONS OF DIRECTIVES, ABBREVIATIONS/ACRONYMS
