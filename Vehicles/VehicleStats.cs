@@ -1,7 +1,5 @@
 //  Stores the current ship or other ship objects state(s).
 //  Not yet fully implemented. 
-// PLEASE DO NOT MODIFY, DISTRIBUTE OR SELL FOR PROFIT, THIS SOURCE CODE AND ITS ASSOCIATED PROJECT.
-// See Readme.txt for more information.
 
 using System;
 using System.Drawing;
