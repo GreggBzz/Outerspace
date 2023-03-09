@@ -5,7 +5,7 @@ Outerspace is an incomplete modern recreation of the classic computer game Starf
 
 I leave it here as a testament to the countless hours I spent bedroom programming in an attempt to modernize a very historically significant computer game. 
 
-The game isn't complete, but there's a lot of accomplishments in this code, especially for a few amateurs, in their spare time. Special thanks to Jason (https://www.linkedin.com/in/jasonwhenderson). I now understand why a modern computer game costs over 20 million dollars to create. The amount of code and convergence of requirements in art, story-line, music, quality control, delivery and everything else cannot be understated. 
+The game isn't complete, but there's a lot of accomplishments in this code, especially for a few amateurs, in their spare time. Special thanks to Jason (https://www.linkedin.com/in/jasonwhenderson).
 
 Here's a video:
 http://youtu.be/ZDO0BAnsegY
